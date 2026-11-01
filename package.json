@@ -1,0 +1,13 @@
+{
+  "name": "shidqi-interactive-portfolio",
+  "version": "1.0.0",
+  "description": "Interactive Web Portfolio of Muhammad Shidqi Fadhlurrahman",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["portfolio", "accounting", "finance", "interactive"],
+  "author": "Muhammad Shidqi Fadhlurrahman",
+  "license": "MIT"
+}
